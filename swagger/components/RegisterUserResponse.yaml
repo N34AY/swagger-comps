@@ -1,0 +1,17 @@
+type: object
+properties:
+  result:
+    type: boolean
+    example: true
+  user:
+    type: object
+    description: Registered user information
+    properties:
+      name:
+        type: string
+      email:
+        type: string
+      updated_at:
+        type: string
+      created_at:
+        type: string

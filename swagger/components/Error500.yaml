@@ -1,0 +1,8 @@
+type: object
+properties:
+  status:
+    type: boolean
+    example: false
+  error:
+    type: string
+    example: Internal server error

@@ -1,0 +1,18 @@
+type: object
+properties:
+  name:
+    type: string
+    maximum: 255
+    description: User name
+  email:
+    type: string
+    maximum: 255
+    description: User email
+  password:
+    type: string
+    minimum: 8
+    description: User password
+required:
+  - name
+  - email
+  - password

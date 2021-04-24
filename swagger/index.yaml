@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: Template
+  version: 1.0.0
+  description: Test template API
+tags:
+  - name: auth
+    description: Authorization methods

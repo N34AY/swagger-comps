@@ -1,0 +1,18 @@
+{
+  "name": "swagger-comps",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch paths test.js"
+  },
+  "author": "n34ay",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

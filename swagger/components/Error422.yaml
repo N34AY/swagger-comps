@@ -1,0 +1,9 @@
+type: object
+properties:
+  status:
+    type: boolean
+    example: false
+  errors:
+    type: array
+    items:
+      type: object

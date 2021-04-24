@@ -1,0 +1,7 @@
+{
+  "watch": [
+    "test.js",
+    "paths/"
+  ],
+  "ext": "yaml"
+}
