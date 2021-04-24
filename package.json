@@ -1,6 +1,6 @@
 {
   "name": "swagger-comps",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Package for components based development of openapi 3.0.0 documentation",
   "main": "index.js",
   "scripts": {
