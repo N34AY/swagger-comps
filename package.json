@@ -1,13 +1,18 @@
 {
   "name": "swagger-comps",
   "version": "1.0.4",
-  "description": "",
+  "description": "Package for components based development of openapi 3.0.0 documentation",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --watch paths test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N34AY/swagger-comps.git"
+  },
+  "homepage": "https://github.com/N34AY/swagger-comps",
   "author": "n34ay",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "glob": "^7.1.6",
     "yaml": "^1.10.2"
